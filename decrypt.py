@@ -1,3 +1,3 @@
 from cip import decrypt
 
-print(decrypt('nsz1b9xwvhh2y9ch3u3xwzztzw7u8bt1q6nsz3x8bnszw6d3hcyz0v5vty8e0qcmz6h7ch2g7nbb3g5hsbwn0o9mbw5z6xwzzt4y4zdzh'))
+print(decrypt())
