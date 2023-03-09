@@ -1,9 +1,7 @@
 import random
-
+from ci import cipher2,cipher1
 
 def encrypt(text1):
-    cipher1 = ['z', 'b', 'c', 'd', 'f', 'h', 'j', 'k', 'l', 'n', 'v', 'w', 'x']
-    cipher2 = ['e', 'o', 'i', 'y', 'm', 's', 'u', 'p', 'q', 't', 'a', 'r', 'g']
     c = 0
     new_message = ' '
     for i in text1:
